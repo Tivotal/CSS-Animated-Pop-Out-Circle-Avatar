@@ -39,7 +39,6 @@ img {
 
 .content .circle {
   position: absolute;
-  inset: auto 0 0;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   width: 100%;
